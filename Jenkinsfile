@@ -1,2 +1,11 @@
 @Library('jeroenluers-pipelines')_
-simplePipeline
+
+stage('Demo') {
+
+  echo 'Hello World'
+
+  simplePipeline 'JEROEN'
+
+  echo 'The end'
+
+}
