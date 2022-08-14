@@ -1,2 +1,2 @@
 @Library('jeroenluers-pipelines')_
-apiPipeline 'someParam'
+apiPipeline(key="value", key2="value2)
