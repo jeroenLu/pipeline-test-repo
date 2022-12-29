@@ -29,6 +29,12 @@
 		</dependency>
 	</dependencies>
 
+	<scm>
+		<url>
+			https://github.com/jeroenLu/deployments-repository/tree/master/comp-manager/competition-management
+		</url>
+	</scm>
+
 	<build>
 		<plugins>
 			<plugin>
